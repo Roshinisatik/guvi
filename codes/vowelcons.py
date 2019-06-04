@@ -3,4 +3,4 @@ if(let=='a' or let=='e' or let=='i' or let=='o' or let=='u' or let=='A' or let==
    let=='O' or let=='U'):
     print("Vowel")
 else:
-    print("Consonants")
+    print("Consonant")
