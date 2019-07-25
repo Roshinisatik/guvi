@@ -7,5 +7,5 @@ for i in range(0,b6):
 for i in range(b6):
      lower1=l6[i][0]
      upper1=l6[i][1]
-     s6=sum(lisseq[lower-1:upper])
+     s6=sum(lisseq[lower1-1:upper1])
      print(s6)
